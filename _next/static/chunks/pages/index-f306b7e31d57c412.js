@@ -404,7 +404,7 @@
                                             "flex justify-center space-x-4 md:space-x-6 mb-4 md:mb-8",
                                           children: [
                                             (0, o.jsx)("a", {
-                                              href: "https://t.me/bookofbnbcoin",
+                                              href: "https://t.me/bookofbnbcoinportal",
                                               target: "_blank",
                                               rel: "noopener noreferrer",
                                               className:
@@ -480,7 +480,7 @@
                                             "flex justify-center space-x-6 mb-8",
                                           children: [
                                             (0, o.jsx)("a", {
-                                              href: "https://t.me/bookofbnbcoin",
+                                              href: "https://t.me/bookofbnbcoinportal",
                                               target: "_blank",
                                               rel: "noopener noreferrer",
                                               className:
