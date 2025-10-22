@@ -428,7 +428,7 @@
                                               }),
                                             }),
                                             (0, o.jsx)("a", {
-                                              href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xTBA",
+                                              href: "https://www.dextools.io/app/en/bnb/pair-explorer/0x8394e138687a43AfeCC441C16039AAAB5E099B4A",
                                               target: "_blank",
                                               rel: "noopener noreferrer",
                                               className:
@@ -502,7 +502,7 @@
                                               }),
                                             }),
                                             (0, o.jsx)("a", {
-                                              href: "https://www.dextools.io/app/en/bnb/pair-explorer/0xTBA",
+                                              href: "https://www.dextools.io/app/en/bnb/pair-explorer/0x8394e138687a43AfeCC441C16039AAAB5E099B4A",
                                               target: "_blank",
                                               rel: "noopener noreferrer",
                                               className:
@@ -683,7 +683,7 @@
                                             (0, o.jsx)("div", {
                                               className:
                                                 "font-mono text-xs md:text-base text-amber-200/70",
-                                              children: "CA: 0xTBA",
+                                              children: "CA: 0x8394e138687a43AfeCC441C16039AAAB5E099B4A",
                                             }),
                                             (0, o.jsx)("div", {
                                               className:
